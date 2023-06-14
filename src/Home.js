@@ -57,7 +57,7 @@ function Home() {
                     </div>
 
                     <div>
-                        <a href='https://pfabreuave.github.io/front_stone_simulacion/' target='_blank' rel='noreferrer'>
+                        <a href='pfabreuave.github.io/STONE_simulacion/' target='_blank' rel='noreferrer'>
                             <h3>Simulacion stone</h3>
                         </a>
                     </div>
