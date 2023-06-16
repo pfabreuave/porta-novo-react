@@ -59,6 +59,12 @@ function Home() {
                     </div>
 
                     <div>
+                        <a href='https://pfabreuave.github.io/STONE_simulacion/' target='_blank' rel='noreferrer'>
+                            <h3>Simulacion stone</h3>
+                        </a>
+                    </div>
+
+                    <div>
                         <a href='https://presenta-rt.web.app/' target='_blank' rel='noreferrer'>
                             <h3>Presentacion</h3>
                         </a>
