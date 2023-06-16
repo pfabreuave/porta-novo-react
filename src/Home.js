@@ -2,6 +2,8 @@ import React from 'react'
 import './App.css';
 
 
+
+
 function Home() {
     return (
         
@@ -53,12 +55,6 @@ function Home() {
                     <div>
                         <a href='https://port-mundo-rt.web.app/' target='_blank' rel='noreferrer'>
                             <h3>Presentacion Dinamica</h3>
-                        </a>
-                    </div>
-
-                    <div>
-                        <a href='https://pfabreuave.github.io/STONE_simulacion/' target='_blank' rel='noreferrer'>
-                            <h3>Simulacion stone</h3>
                         </a>
                     </div>
 
